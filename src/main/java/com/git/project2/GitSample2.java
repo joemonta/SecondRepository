@@ -6,6 +6,8 @@ public class GitSample2 {
 
 		System.out.println("Git Sample 2....");
 		
+		System.out.println("Second Commit");
+		
 	}
 
 }
